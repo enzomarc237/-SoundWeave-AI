@@ -1,0 +1,7 @@
+{
+  "name": "SoundWeave AI",
+  "description": "A collaborative, AI-assisted Digital Audio Workstation (DAW) in the browser featuring real-time jamming and AI 'Ghost Player' agents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
